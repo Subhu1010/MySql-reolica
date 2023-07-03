@@ -1,1 +1,1 @@
-# MySql-reolica
+# MySql-replica
